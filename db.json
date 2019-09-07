@@ -1,16 +1,18 @@
 {
- "0": {
+ [
+ {
   "SpenderId": 1,
   "Price": 2000,
   "StuffName": "Dinner",
   "Description": "Eggs, Bread",
   "Type": 4
   },
- "1": {
+ {
   "SpenderId": 2,
   "Price": 4000,
   "StuffName": "Breakfast",
   "Description": "Sangak",
   "Type": 1
   }
+ ]
 }
