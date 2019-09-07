@@ -1,39 +1,39 @@
-{
+0: {
   "SpenderId": 1,
   "Price": 2000,
   "StuffName": "Dinner",
   "Description": "Eggs, Bread",
   "Type": 4
   },
-  {
+  1: {
   "SpenderId": 2,
   "Price": 4000,
   "StuffName": "Breakfast",
   "Description": "Sangak",
   "Type": 1
   },
-  {
+  2: {
   "SpenderId": 3,
   "Price": 21000,
   "StuffName": "Dinner",
   "Description": "Sausages, Bread",
   "Type": 2
   },
-  {
+  3: {
   "SpenderId": 3,
   "Price": 2000,
   "StuffName": "Dinner",
   "Description": "Eggs, Bread",
   "Type": 5
   },
-  {
+  4: {
   "SpenderId": 1,
   "Price": 10000,
   "StuffName": "Lunch",
   "Description": "Eggs, Bread",
   "Type": 1
   },
-  {
+  5: {
   "SpenderId": 2,
   "Price": 5000,
   "StuffName": "Dinner",
