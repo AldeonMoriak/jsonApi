@@ -13,6 +13,20 @@
   "StuffName": "Breakfast",
   "Description": "Sangak",
   "Type": 1
+  },
+  {
+  "SpenderId": 3,
+  "Price": 23000,
+  "StuffName": "Dinner",
+  "Description": "Macaroni",
+  "Type": 2
+  },
+  {
+  "SpenderId": 1,
+  "Price": 232000,
+  "StuffName": "Feast",
+  "Description": "Everything",
+  "Type": 1
   }
  ]
 }
