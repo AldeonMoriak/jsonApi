@@ -3,14 +3,14 @@
  {
   "SpenderId": 1,
   "Price": 2000,
-  "StuffName": "Dinner",
+  "StuffName": "شام",
   "Description": "Eggs, Bread",
   "Type": 4
   },
  {
   "SpenderId": 2,
   "Price": 4000,
-  "StuffName": "Breakfast",
+  "StuffName": "صبحونه",
   "Description": "Sangak",
   "Type": 1
   },
@@ -18,7 +18,7 @@
   "SpenderId": 3,
   "Price": 23000,
   "StuffName": "Dinner",
-  "Description": "Macaroni",
+  "Description": "ماکارونی",
   "Type": 2
   },
   {
