@@ -80,5 +80,50 @@
 				}
 			]
 		}
-	]
+	],
+"Users": [
+{
+"id": 1,
+"username": "aldeon",
+"password": "1234567890",
+"email": "aldeon@example.com",
+"accesssToken": "aldeonToken",
+"refreshToken": "aldeonRefreshToken",
+"roles": [1,2],
+"pic": "aldeonPic",
+"fullname": "Aldeon Moriak",
+"occupation": "programmer",
+"companyName": "aldeonCompany",
+"phone": "09371372935",
+"address": {
+	"addressLine": "address",
+	"city": "tabriz",
+	"state": "ASH",
+	"postcode": "1234567890"
+	},
+	"nationalcode": "2480198278"
+},
+{
+"id": 2,
+"username": "vahedi",
+"password": "1234567890",
+"email": "vahedi@example.com",
+"accesssToken": "vahediToken",
+"refreshToken": "vahediRefreshToken",
+"roles": [1,2],
+"pic": "vahediPic",
+"fullname": "Esmaeil Vahedi",
+"occupation": "programmer",
+"companyName": "vahediCompany",
+"phone": "09149499081",
+"address": {
+	"addressLine": "address2",
+	"city": "tabriz",
+	"state": "ASH",
+	"postcode": "0987654321"
+	},
+	"nationalcode": "1381970036"
 }
+]
+}
+
