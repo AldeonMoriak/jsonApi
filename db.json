@@ -1,129 +1,48 @@
 {
-	"0": [
-		{
-			"SpenderId": 1,
-			"Price": 2000,
-			"StuffName": "شام",
-			"Description": "Eggs, Bread",
-			"Type": 4,
-			"CreateDateTime": "12-08-2019"
-		},
-		{
-			"SpenderId": 2,
-			"Price": 4000,
-			"StuffName": "صبحونه",
-			"Description": "Sangak",
-			"Type": 1,
-			"CreateDateTime": "12-09-2019"
-		},
-		{
-			"SpenderId": 3,
-			"Price": 23000,
-			"StuffName": "Dinner",
-			"Description": "ماکارونی",
-			"Type": 2,
-			"CreateDateTime": "15-08-2019"
-		},
-		{
-			"SpenderId": 1,
-			"Price": 232000,
-			"StuffName": "Feast",
-			"Description": "Everything",
-			"Type": 1,
-			"CreateDateTime": "12-01-2019"
-		}
-	],
-	"ObjList": [
-		{
-			"Three": [
-				{
-					"Name": "امین زارع",
-					"Price": 12000
-				},
-				{
-					"Name": "مهران میرشکاران",
-					"Price": -6000.00
-				},
-				{
-					"Name": "اشکان دلیری",
-					"Price": -6000.00
-				}
-			],
-			"Am_Ash": [
-				{
-					"Name": "اشکان دلیری",
-					"Price": 6000.00
-				},
-				{
-					"Name": "امین زارع",
-					"Price": -6000.00
-				}
-			],
-			"Am_Me": [
-				{
-					"Name": "مهران میرشکاران",
-					"Price": -6000.00
-				},
-				{
-					"Name": "امین زارع",
-					"Price": 6000.00
-				}
-			],
-			"Ash_Me": [
-				{
-					"Name": "اشکان دلیری",
-					"Price": -6000.00
-				},
-				{
-					"Name": "مهران میرشکاران",
-					"Price": -6000.00
-				}
-			]
-		}
-	],
-"Users": [
-{
-"id": 1,
-"username": "aldeon",
-"password": "1234567890",
-"email": "aldeon@example.com",
-"accesssToken": "aldeonToken",
-"refreshToken": "aldeonRefreshToken",
-"roles": [1,2],
-"pic": "aldeonPic",
-"fullname": "Aldeon Moriak",
-"occupation": "programmer",
-"companyName": "aldeonCompany",
-"phone": "09371372935",
-"address": {
-	"addressLine": "address",
-	"city": "tabriz",
-	"state": "ASH",
-	"postcode": "1234567890"
+	
+	"Users": [
+	{
+		"id": 1,
+		"username": "aldeon",
+		"password": "1234567890",
+		"email": "aldeon@example.com",
+		"accesssToken": "aldeonToken",
+		"refreshToken": "aldeonRefreshToken",
+		"roles": [1,2],
+		"pic": "aldeonPic",
+		"fullname": "Aldeon Moriak",
+		"occupation": "programmer",
+		"companyName": "aldeonCompany",
+		"phone": "09371372935",
+		"address": {
+			"addressLine": "address",
+			"city": "tabriz",
+			"state": "ASH",
+			"postcode": "1234567890"
+			},
+			"nationalcode": "2480198278"
 	},
-	"nationalcode": "2480198278"
-},
-{
-"id": 2,
-"username": "vahedi",
-"password": "1234567890",
-"email": "vahedi@example.com",
-"accesssToken": "vahediToken",
-"refreshToken": "vahediRefreshToken",
-"roles": [1,2],
-"pic": "vahediPic",
-"fullname": "Esmaeil Vahedi",
-"occupation": "programmer",
-"companyName": "vahediCompany",
-"phone": "09149499081",
-"address": {
-	"addressLine": "address2",
-	"city": "tabriz",
-	"state": "ASH",
-	"postcode": "0987654321"
-	},
-	"nationalcode": "1381970036"
-}
-]
+	{
+		"id": 2,
+		"username": "vahedi",
+		"password": "1234567890",
+		"email": "vahedi@example.com",
+		"accesssToken": "vahediToken",
+		"refreshToken": "vahediRefreshToken",
+		"roles": [1,2],
+		"pic": "vahediPic",
+		"fullname": "Esmaeil Vahedi",
+		"occupation": "programmer",
+		"companyName": "vahediCompany",
+		"phone": "09149499081",
+		"address": {
+			"addressLine": "address2",
+			"city": "tabriz",
+			"state": "ASH",
+			"postcode": "0987654321"
+			},
+			"nationalcode": "1381970036"
+	}
+	]
 }
 
